@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     
 - Frontend : <br />
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
-     [![CSS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
+     [![CSS]([https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white](https://cdn-icons-png.flaticon.com/512/919/919826.png?w=740&t=st=1672904357~exp=1672904957~hmac=cd128e6ff3f560a491def593b0ab36e536ddd3d8f9089841b7e27815ac074270))]([https://sass-lang.com/](https://www.freepik.com/free-icon/css_15116759.htm#query=css%20logo&position=5&from_view=keyword))
     [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
     [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
     [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
