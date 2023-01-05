@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **web development projects**
 
-- 🌱 I’m currently learning **MERN technologies**
+- 🌱 I’m currently learning **Full Stack technologies**
 
 - 🤝 I’m looking for help with **web development projects.**
 
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
     
 - Frontend : <br />
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
+     [![CSS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
     [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
     [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
     [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
