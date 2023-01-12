@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadbarde&show_icons=true&locale=en&layout=compact" alt="prasadbarde" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadbarde&show_icons=true&locale=en&layout=compact" alt="prasadbarde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadbarde&show_icons=true&locale=en" alt="prasadbarde" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadbarde&show_icons=true&locale=en" alt="prasadbarde" /></p> -->
 
